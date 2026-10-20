@@ -1,0 +1,47 @@
+MainActivity
+
+2026-10-20 22:10:49.787  5531-5531  MainActivityLog         com.example.groupportal              D  onDestroy
+---------------------------- PROCESS ENDED (5531) for package com.example.groupportal ----------------------------
+---------------------------- PROCESS STARTED (6889) for package com.example.groupportal ----------------------------
+2026-10-20 22:11:01.714  6889-6889  MainActivityLog         com.example.groupportal              D  onCreate: Экран входа создан
+2026-10-20 22:11:01.723  6889-6889  MainActivityLog         com.example.groupportal              D  onStart
+2026-10-20 22:11:01.724  6889-6889  MainActivityLog         com.example.groupportal              D  onResume
+2026-10-20 22:14:04.944  6889-6889  MainActivityLog         com.example.groupportal              I  Пользователь  нажал кнопку Войти
+2026-10-20 22:14:04.961  6889-6889  MainActivityLog         com.example.groupportal              D  onPause
+2026-10-20 22:14:05.559  6889-6889  MainActivityLog         com.example.groupportal              D  onStop
+2026-10-20 22:14:23.272  6889-6889  MainActivityLog         com.example.groupportal              D  onDestroy
+---------------------------- PROCESS ENDED (6889) for package com.example.groupportal ----------------------------
+---------------------------- PROCESS STARTED (8967) for package com.example.groupportal ----------------------------
+2026-10-20 22:14:25.346  8967-8967  MainActivityLog         com.example.groupportal              D  onCreate: Экран входа создан
+2026-10-20 22:14:25.354  8967-8967  MainActivityLog         com.example.groupportal              D  onStart
+2026-10-20 22:14:25.356  8967-8967  MainActivityLog         com.example.groupportal              D  onResume
+2026-10-20 22:14:32.901  8967-8967  MainActivityLog         com.example.groupportal              I  Пользователь Aldiyar нажал кнопку Войти
+2026-10-20 22:14:32.916  8967-8967  MainActivityLog         com.example.groupportal              D  onPause
+2026-10-20 22:14:33.526  8967-8967  MainActivityLog         com.example.groupportal              D  onStop
+
+
+ListActivity
+---------------------------- PROCESS ENDED (8967) for package com.example.groupportal ----------------------------
+---------------------------- PROCESS STARTED (12286) for package com.example.groupportal ----------------------------
+2026-10-20 22:19:41.078 12286-12286 ListActivityLog         com.example.groupportal              D  onCreate: Экран списка загружен
+2026-10-20 22:19:42.939 12286-12286 ListActivityLog         com.example.groupportal              I  Переход к карточке студента: Асанов Айдос
+2026-10-20 22:19:46.793 12286-12286 ListActivityLog         com.example.groupportal              I  Переход к карточке студента: Иванов Сергей
+
+
+DetailActivity
+---------------------------- PROCESS ENDED (8967) for package com.example.groupportal ----------------------------
+---------------------------- PROCESS STARTED (12286) for package com.example.groupportal ----------------------------
+2026-10-20 22:19:42.981 12286-12286 DetailActivityLog       com.example.groupportal              D  onCreate: Карточка студента открыта
+2026-10-20 22:19:45.240 12286-12286 DetailActivityLog       com.example.groupportal              I  Нажата кнопка Назад
+2026-10-20 22:19:45.791 12286-12286 DetailActivityLog       com.example.groupportal              D  onDestroy: Карточка закрыта
+2026-10-20 22:19:46.827 12286-12286 DetailActivityLog       com.example.groupportal              D  onCreate: Карточка студента открыта
+2026-10-20 22:19:49.424 12286-12286 DetailActivityLog       com.example.groupportal              I  Нажата кнопка Назад
+2026-10-20 22:19:49.996 12286-12286 DetailActivityLog       com.example.groupportal              D  onDestroy: Карточка закрыта
+---------------------------- PROCESS ENDED (12286) for package com.example.groupportal ----------------------------
+---------------------------- PROCESS STARTED (13061) for package com.example.groupportal ----------------------------
+2026-10-20 22:20:55.045 13061-13061 DetailActivityLog       com.example.groupportal              D  onCreate: Карточка студента открыта
+2026-10-20 22:20:56.347 13061-13061 DetailActivityLog       com.example.groupportal              I  Нажата кнопка Назад
+2026-10-20 22:20:56.817 13061-13061 DetailActivityLog       com.example.groupportal              D  onDestroy: Карточка закрыта
+2026-10-20 22:20:57.560 13061-13061 DetailActivityLog       com.example.groupportal              D  onCreate: Карточка студента открыта
+2026-10-20 22:20:59.236 13061-13061 DetailActivityLog       com.example.groupportal              I  Нажата кнопка Назад
+2026-10-20 22:20:59.809 13061-13061 DetailActivityLog       com.example.groupportal              D  onDestroy: Карточка закрыта
